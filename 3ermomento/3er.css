@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(img/fondo.gif);
+    background-color: rgb(40, 40, 50);
+    background-blend-mode: soft-light;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.container-text{
+    display: flex;
+    justify-content: center;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 3rem;
+}
+.container-text p{
+    color: #ffffff;
+    font-family: 'Julius Sans One', sans-serif;
+    text-decoration:underline;
+}

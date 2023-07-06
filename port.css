@@ -19,7 +19,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 8%;
+    margin-top: 2%;
     font-size: 1.8rem;
 }
 .container{
@@ -57,6 +57,7 @@ body{
     height: 50px;
     margin: 0 85px;
     background-color: #828282;
+    border-radius: 10px;
 }
 .btn1:hover{
     background-color: rgb(194, 137, 247);
@@ -72,6 +73,7 @@ body{
     height: 50px;
     margin: 0 70px;
     background-color: #828282;
+    border-radius: 10px;
 }
 .btn2:hover{
     background-color: rgb(137, 210, 247);
@@ -88,6 +90,7 @@ body{
     margin: 0 85px;
     cursor: pointer;
     background-color: #828282;
+    border-radius: 10px;
 }
 .btn3:hover{
     background-color: rgb(247, 137, 225);

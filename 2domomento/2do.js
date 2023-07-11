@@ -1,3 +1,3 @@
 function redireccion() {
-    window.location.href = "/port.html";
+    window.location.href = "/index.html";
 }

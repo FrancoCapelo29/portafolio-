@@ -1,9 +1,9 @@
 function redireccion1() {
-    window.location.href = "1ermomento/1er.html";
+    window.location.href = "1ermomento/index.html";
 }
 function redireccion2() {
-    window.location.href = "2domomento/2do.html";
+    window.location.href = "2domomento/index.html";
 }
 function redireccion3() {
-    window.location.href = "3ermomento/3er.html";
+    window.location.href = "3ermomento/index.html";
 }

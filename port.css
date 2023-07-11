@@ -3,7 +3,7 @@ body{
     padding: 0;
     height: 100vh;
     background-image: url(img/fondo.gif);
-    background-color: rgb(40, 40, 50);
+    background-color: rgb(13, 13, 17);
     background-blend-mode: soft-light;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -19,8 +19,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 2%;
     font-size: 1.8rem;
+    background-color: rgba(53, 53, 53, 0.248);
+    padding: 10px;
+    margin: 40px;
+}
+.materia{
+    justify-content: center;
+    color: #fff;
+    font-size: 1.5rem;
 }
 .container{
     display: flex;
